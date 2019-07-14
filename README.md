@@ -8,7 +8,7 @@
 ### step 1 - Download required dependency
 
 ```
- pip install requests beautifulsoup4 img2pdf  tqdm 
+ pip install requests beautifulsoup4 img2pdf  tqdm lxml
 
 ```
 
